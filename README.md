@@ -10,7 +10,7 @@
 
 #### Sobre mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
+Sou um desenvolvedor de software que gosto de me aventurar no mundo da programação
 
 <div align="center">
 
