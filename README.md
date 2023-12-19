@@ -8,6 +8,8 @@
 
 #### Onde me encontrar
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio_tomita/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-de-melo-tomita-524504233/)
+
 #### Sobre mim
 
 Sou um desenvolvedor de software que gosto de me aventurar no mundo da programação
